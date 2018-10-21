@@ -4,5 +4,5 @@ This is a node.js command line app that scrapes images from a given website (url
 
 ### How to use
 - run node app.js
-- pass a valid url and an output folder
+- pass a valid url - **HTTPS only**, and an output folder
 - open the generated index.html in browser to view all downloaded images
