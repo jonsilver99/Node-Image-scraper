@@ -1,0 +1,20 @@
+{
+  "name": "commandlinetool",
+  "version": "1.0.0",
+  "description": "Simple node.js app that uses the cli",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
